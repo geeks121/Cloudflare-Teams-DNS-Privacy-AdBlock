@@ -20,7 +20,7 @@
 	"bugs": {
 		"url": "https://github.com/demosjarco/Cloudflare-Teams-DNS-Privacy-AdBlock/issues"
 	},
-	"homepage": "https://ztpi.zapnet.my.id/",
+	"homepage": "https://ztpi.pages.dev/",
 	"devDependencies": {
 		"prettier": "^2.7.1",
 		"wrangler": "^2.1.13"
